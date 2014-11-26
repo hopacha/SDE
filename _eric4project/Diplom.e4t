@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Tasks SYSTEM "Tasks-4.2.dtd">
+<!-- eric4 tasks file for project Diplom -->
+<!-- Saved: 2014-11-25, 23:17:39 -->
+<Tasks version="4.2">
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2014-02-14, 19:41:01</Created>
+    <Resource>
+      <Filename>main.py</Filename>
+      <Linenumber>28</Linenumber>
+    </Resource>
+  </Task>
+  <Task priority="1" completed="False" bugfix="False">
+    <Summary>TODO: not implemented yet</Summary>
+    <Description></Description>
+    <Created>2014-11-25, 14:43:55</Created>
+    <Resource>
+      <Filename>ui/main.py</Filename>
+      <Linenumber>364</Linenumber>
+    </Resource>
+  </Task>
+</Tasks>

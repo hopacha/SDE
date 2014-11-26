@@ -1,0 +1,1 @@
+pyrcc4 -o C:\Users\oxoxo\Diplom\resources_rc.py C:\Users\oxoxo\Diplom\resources.qrc
